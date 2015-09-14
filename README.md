@@ -1,2 +1,2 @@
 # 12th-CompSci-Club
-Fall 2013 + Spring 2014
+Senior year at ASMSA. Just practice programs for the competitions we were about to go to
